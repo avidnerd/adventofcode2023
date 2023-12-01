@@ -40,3 +40,5 @@ with open('day_1.out', "w") as file:
     file.write(str(result))
 
 file.close()
+
+#time: 35 minutes
